@@ -1,4 +1,4 @@
-# L02E02: Matrix max value
+# L02E03: Matrix max value
 Vytvořte program `matrix_max_value.py`, který vypíše matici s očíslovanými řádky, zjistí součet všech prvků matice a maximální prvek matice. Tyto údaje vypište ve formátu uvedeném níže.
 
 Matici reprezentujte v lokální proměnné (vícerozměrný tuple).
