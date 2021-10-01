@@ -11,6 +11,8 @@ matrix = (
 )
 ```
 
+**Musí fungovat pro matici libovoných rozměrů!**
+
 Pozor výstup programu je testován automaticky, proto dodržujte přesný formát výstupu a vstupu! K řešení používejte pouze nástroje jazyka Python, které byly již představeny na seminářích.
 
 ## Očekávaný výstup
