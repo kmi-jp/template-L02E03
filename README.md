@@ -6,7 +6,7 @@ Matici reprezentujte v lokální proměnné (vícerozměrný tuple).
 ```
 matrix = (
     (1, -2, 5, 20),
-    (0, 2, 3, 4),
+    (0, 2, 3, 400),
     (100, 2, 3, 4)
 )
 ```
