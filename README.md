@@ -19,7 +19,7 @@ Pozor výstup programu je testován automaticky, proto dodržujte přesný form�
 ```
 > python3 matrix_max_value.py
 0 (1, -2, 5, 20)
-1 (0, 2, 3, 4)
+1 (0, 2, 3, 400)
 2 (100, 2, 3, 4)
 maximal=100, summation=142
 ```
