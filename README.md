@@ -21,5 +21,5 @@ Pozor výstup programu je testován automaticky, proto dodržujte přesný form�
 0 (1, -2, 5, 20)
 1 (0, 2, 3, 400)
 2 (100, 2, 3, 4)
-maximal=100, summation=142
+maximal=400, summation=538
 ```
