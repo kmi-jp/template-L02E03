@@ -4,11 +4,7 @@ Vytvořte program `matrix_max_value.py`, který vypíše matici s očíslovaným
 Matici reprezentujte v lokální proměnné (vícerozměrný tuple).
 
 ```
-matrix = (
-    (1, -2, 5, 20),
-    (0, 2, 3, 400),
-    (100, 2, 3, 4)
-)
+matrix = ((-1, -2, -5, -20), (-10, -2, -3, -400), (-100, -2, -3, -4))
 ```
 
 **Musí fungovat pro matici libovoných rozměrů!**
@@ -18,8 +14,15 @@ Pozor výstup programu je testován automaticky, proto dodržujte přesný form�
 ## Očekávaný výstup
 ```
 > python3 matrix_max_value.py
-0 (1, -2, 5, 20)
-1 (0, 2, 3, 400)
-2 (100, 2, 3, 4)
-maximal=400, summation=538
+0 (-1, -2, -5, -20)
+1 (-10, -2, -3, -400)
+2 (-100, -2, -3, -4)
+maximal=-1, summation=-552
+```
+
+## Lokální testování
+Funkčnost řešení ověříte následujícím příkazem:
+
+```bash
+pytest tests.py
 ```
